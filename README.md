@@ -55,6 +55,10 @@
 
 Understanding Lexington's eviction rate can help scholars, policymakers, and local communities understand how it effects more than just the family moving out. The removal of families from Lexington households reduces the amount of dollars circulating in the local economy and negatively impacts trust, community engagement, and resources to help mitigate this issue at large. 
 
+
+## Chapter 2: Data Collection
+Collection of eviction data for this project can be sparse, deliberate challenging to collect, and will require the input from state and local authorities. I've currently made plans to meet with the Lexington Fair Housing Council, contacted Lexington's Property Valuation Assessment office, and have started the general process of collecting this data.  
+More particularly, the data used in this project will include polygons of RECAPs, RECArPs, RECAAS, and RECArAs. These polygons will denote what Taylor Shelton has found in his research on poverty in Lexington. 
 ## Chapter 7: Citations 
 <ol>
 
