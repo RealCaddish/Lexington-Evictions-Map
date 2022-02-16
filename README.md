@@ -6,13 +6,13 @@
 
 3. Data Processing & Analysis
 
-4. Dessimination of Visualizations
+4. Dissemination of Visualizations
 
 5. Evaluation of Effects
 
 6. Conclusion
 
-7. Citations
+7. References and Citations
  
 
  ## Chapter 1: Introduction
@@ -39,7 +39,7 @@
   <b>RECAAs</b>
   
 <ul>
-<li> racially/ethnically concentrated areas of affluence where poor and non-white residents have traditionally been excluded from (i.e. where non-hispanic, white population exceeds the citywide average)
+<li> racially/ethnically concentrated areas of affluence where poor and non-white residents have traditionally been excluded from (i.e. where non-Hispanic, white population exceeds the citywide average)
 <li>and also where the median household income is <i>greater than </i> twice the citywide median            
 </ul>
 
@@ -59,8 +59,22 @@ Understanding Lexington's eviction rate can help scholars, policymakers, and loc
 ## Chapter 2: Data Collection
 Collection of eviction data for this project can be sparse, deliberate challenging to collect, and will require the input from state and local authorities. I've currently made plans to meet with the Lexington Fair Housing Council, contacted Lexington's Property Valuation Assessment office, and have started the general process of collecting this data.  
 More particularly, the data used in this project will include polygons of RECAPs, RECArPs, RECAAS, and RECArAs. These polygons will denote what Taylor Shelton has found in his research on poverty in Lexington. 
-## Chapter 7: Citations 
+
+
+## Chapter 7: References and Citations 
 <ol>
+<b>References</b>
+<li>
+US Census Bureau's
+<a href="https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html"> Tiger/Line Shapefiles</a>
+</li>
+<li>Data from many of the Census Bureau's surveys and censuses (including geographic codes for Tiger/Line Shapefiles) at their <a href="https://data.census.gov/"> public dissemination website.</a>
+</li>
+<li>Text outlining Title III - Committee on Banking, Housing, and Urban Affairs, Sections 3201-3208 <a href="https://www.congress.gov/bill/117th-congress/house-bill/1319/text">American Rescue Plan Act</a>
+</li>
+</ol>
+<ol>
+<b>Citations </b>
 
 <li>Raymond, Elora Lee, et al. “From Foreclosure to Eviction: Housing Insecurity in Corporate-Owned Single-Family Rentals.” Cityscape, vol. 20, no. 3, US Department of Housing and Urban Development, 2018, pp. 159–88, <a href="https://www.jstor.org/stable/26524878">Article Found Here</a></li>
 
